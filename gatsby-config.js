@@ -14,7 +14,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-sass`, //Sass
-    'gatsby-plugin-netlify-cms', //Netlify CMS
+    `gatsby-plugin-netlify-cms`, //Netlify CMS
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
