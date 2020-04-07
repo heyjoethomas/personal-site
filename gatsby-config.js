@@ -13,7 +13,8 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    `gatsby-plugin-sass`,
+    `gatsby-plugin-sass`, //Sass
+    'gatsby-plugin-netlify-cms', //Netlify CMS
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
